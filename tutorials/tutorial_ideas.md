@@ -1,0 +1,12 @@
+# Tutorial Ideas
+- [ ] Mastering Git
+- [ ] Mastering Swift
+- [ ] Mastering UIKit
+- [ ] Mastering SwiftUI
+- [ ] Mastering Combine
+- [ ] Mastering TDD
+- [ ] Mastering iOS Animations
+- [ ] Mastering Data structures
+- [ ] Mastering MacOS programming
+- [ ] Mastering Modern Concurrency in Swift
+- [ ] Mastering Apple Augmented Reality Apps
