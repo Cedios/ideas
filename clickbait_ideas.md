@@ -1,0 +1,3 @@
+- Talk about the secret lives of famous Disney Characters
+- Explain why 42 is the meaning of life
+- Show that all dead popstars of the last two decades have been killed for their insurance policies by the label who benefits from them.
